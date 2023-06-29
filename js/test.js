@@ -18,5 +18,7 @@ const formatter = new Intl.NumberFormat("ko");
 //     notation : 'compact',
 //     compactDisplay : 'long'
 // });
+//
+//
 
 console.log(formatter.format(views));
